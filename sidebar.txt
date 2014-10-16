@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ame:home|Door43 (ame)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ame|d43-ame repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ame/archive/master.zip|d43-ame.zip]]
+
+**Recent Changes**
+{{changes>ns = ame}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ame|Ethnologue data]]
+
